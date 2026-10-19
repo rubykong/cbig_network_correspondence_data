@@ -1,0 +1,6 @@
+[data_info]
+Data_Category: Lipkin
+Data_Name: BL3
+Data_Space: FSLMNI2mm
+Data_Type: Soft
+Data_Threshold: [0.3,Inf]
